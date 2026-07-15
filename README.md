@@ -1,4 +1,4 @@
-# ConsoleApplicationCppTuto
+# Console Application C++ Tuto
 
 Description
 -----------
